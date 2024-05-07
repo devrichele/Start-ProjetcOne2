@@ -5,6 +5,7 @@ export default function App() {
     <div className="App">
       <h1>Boa noite galera :)</h1>
       <h2>Estou aprendendo React!</h2>
+      <p> Calma!!! </p>
     </div>
   );
 }
